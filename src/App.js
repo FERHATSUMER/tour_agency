@@ -1,17 +1,14 @@
-import Header from './components/Header';
-import Footer from './components/Footer';
-import InputSection from './components/InputSection';
-import './app.css'
+import React from "react";
+import Tours from "./components/Tours";
+import "./style.css";
 
 function App() {
   return (
-    <div className="container">
-    <Header />
-    <InputSection/>
-    <Footer/>
-    </div>
+    <main className="main">
+    <h1> Our Tours</h1>
+      <Tours  />
+    </main>
   );
 }
 
 export default App;
-
