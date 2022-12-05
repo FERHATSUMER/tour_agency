@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tour_agency/static/css/main.ace5d880.css",
+    "main.js": "/tour_agency/static/js/main.e26a21ba.js",
+    "index.html": "/tour_agency/index.html",
+    "main.ace5d880.css.map": "/tour_agency/static/css/main.ace5d880.css.map",
+    "main.e26a21ba.js.map": "/tour_agency/static/js/main.e26a21ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace5d880.css",
+    "static/js/main.e26a21ba.js"
+  ]
+}
